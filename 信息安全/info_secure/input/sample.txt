@@ -1,0 +1,3 @@
+这是一个用于加密测试的示例文件。
+This is a sample file for encryption testing.
+Hello Crypto World!
